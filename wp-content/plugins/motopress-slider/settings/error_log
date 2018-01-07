@@ -1,0 +1,59 @@
+[11-Jan-2016 23:37:14] PHP Fatal error:  Call to undefined function  __() in /home3/newcruit/public_html/wp-content/plugins/motopress-slider/settings/slide.php on line 4
+[11-Jan-2016 23:37:25] PHP Fatal error:  Call to undefined function  __() in /home3/newcruit/public_html/wp-content/plugins/motopress-slider/settings/layer.php on line 4
+[11-Jan-2016 23:37:35] PHP Fatal error:  Call to undefined function  is_admin() in /home3/newcruit/public_html/wp-content/plugins/motopress-slider/settings/preset.php on line 6
+[11-Jan-2016 23:37:55] PHP Fatal error:  Call to undefined function  __() in /home3/newcruit/public_html/wp-content/plugins/motopress-slider/settings/slider.php on line 4
+[11-Jan-2016 23:38:38] PHP Warning:  require_once(ABSPATHwp-admin/includes/plugin.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home3/newcruit/public_html/wp-content/plugins/motopress-slider/settings/settings.php on line 2
+[11-Jan-2016 23:38:38] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'ABSPATHwp-admin/includes/plugin.php' (include_path='.:/usr/lib64/php:/usr/share/pear') in /home3/newcruit/public_html/wp-content/plugins/motopress-slider/settings/settings.php on line 2
+[12-Jan-2016 07:01:32] PHP Fatal error:  Call to undefined function  __() in /home3/newcruit/public_html/wp-content/plugins/motopress-slider/settings/layer.php on line 4
+[12-Jan-2016 07:01:42] PHP Fatal error:  Call to undefined function  is_admin() in /home3/newcruit/public_html/wp-content/plugins/motopress-slider/settings/preset.php on line 6
+[12-Jan-2016 07:01:53] PHP Warning:  require_once(ABSPATHwp-admin/includes/plugin.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home3/newcruit/public_html/wp-content/plugins/motopress-slider/settings/settings.php on line 2
+[12-Jan-2016 07:01:53] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'ABSPATHwp-admin/includes/plugin.php' (include_path='.:/usr/lib64/php:/usr/share/pear') in /home3/newcruit/public_html/wp-content/plugins/motopress-slider/settings/settings.php on line 2
+[12-Jan-2016 07:02:03] PHP Fatal error:  Call to undefined function  __() in /home3/newcruit/public_html/wp-content/plugins/motopress-slider/settings/slider.php on line 4
+[12-Jan-2016 07:02:26] PHP Fatal error:  Call to undefined function  __() in /home3/newcruit/public_html/wp-content/plugins/motopress-slider/settings/slide.php on line 4
+[12-Jan-2016 12:40:55] PHP Fatal error:  Call to undefined function  __() in /home3/newcruit/public_html/wp-content/plugins/motopress-slider/settings/slider.php on line 4
+[12-Jan-2016 12:41:15] PHP Fatal error:  Call to undefined function  is_admin() in /home3/newcruit/public_html/wp-content/plugins/motopress-slider/settings/preset.php on line 6
+[12-Jan-2016 12:41:25] PHP Fatal error:  Call to undefined function  __() in /home3/newcruit/public_html/wp-content/plugins/motopress-slider/settings/slide.php on line 4
+[12-Jan-2016 12:41:36] PHP Warning:  require_once(ABSPATHwp-admin/includes/plugin.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home3/newcruit/public_html/wp-content/plugins/motopress-slider/settings/settings.php on line 2
+[12-Jan-2016 12:41:36] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'ABSPATHwp-admin/includes/plugin.php' (include_path='.:/usr/lib64/php:/usr/share/pear') in /home3/newcruit/public_html/wp-content/plugins/motopress-slider/settings/settings.php on line 2
+[12-Jan-2016 12:41:46] PHP Fatal error:  Call to undefined function  __() in /home3/newcruit/public_html/wp-content/plugins/motopress-slider/settings/layer.php on line 4
+[12-Jan-2016 13:50:57] PHP Fatal error:  Call to undefined function  __() in /home3/newcruit/public_html/wp-content/plugins/motopress-slider/settings/slide.php on line 4
+[12-Jan-2016 13:51:08] PHP Fatal error:  Call to undefined function  __() in /home3/newcruit/public_html/wp-content/plugins/motopress-slider/settings/layer.php on line 4
+[12-Jan-2016 18:41:34] PHP Warning:  require_once(ABSPATHwp-admin/includes/plugin.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home3/newcruit/public_html/wp-content/plugins/motopress-slider/settings/settings.php on line 2
+[12-Jan-2016 18:41:34] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'ABSPATHwp-admin/includes/plugin.php' (include_path='.:/usr/lib64/php:/usr/share/pear') in /home3/newcruit/public_html/wp-content/plugins/motopress-slider/settings/settings.php on line 2
+[12-Jan-2016 18:41:44] PHP Fatal error:  Call to undefined function  __() in /home3/newcruit/public_html/wp-content/plugins/motopress-slider/settings/layer.php on line 4
+[12-Jan-2016 18:41:54] PHP Fatal error:  Call to undefined function  __() in /home3/newcruit/public_html/wp-content/plugins/motopress-slider/settings/slider.php on line 4
+[12-Jan-2016 18:42:05] PHP Fatal error:  Call to undefined function  is_admin() in /home3/newcruit/public_html/wp-content/plugins/motopress-slider/settings/preset.php on line 6
+[12-Jan-2016 18:42:25] PHP Fatal error:  Call to undefined function  __() in /home3/newcruit/public_html/wp-content/plugins/motopress-slider/settings/slide.php on line 4
+[12-Jan-2016 20:42:26] PHP Fatal error:  Call to undefined function  __() in /home3/newcruit/public_html/wp-content/plugins/motopress-slider/settings/slide.php on line 4
+[12-Jan-2016 20:42:36] PHP Fatal error:  Call to undefined function  __() in /home3/newcruit/public_html/wp-content/plugins/motopress-slider/settings/layer.php on line 4
+[13-Jan-2016 02:45:20] PHP Fatal error:  Call to undefined function  __() in /home3/newcruit/public_html/wp-content/plugins/motopress-slider/settings/slide.php on line 4
+[13-Jan-2016 02:45:31] PHP Fatal error:  Call to undefined function  __() in /home3/newcruit/public_html/wp-content/plugins/motopress-slider/settings/layer.php on line 4
+[13-Jan-2016 08:47:19] PHP Fatal error:  Call to undefined function  __() in /home3/newcruit/public_html/wp-content/plugins/motopress-slider/settings/slide.php on line 4
+[13-Jan-2016 08:47:29] PHP Fatal error:  Call to undefined function  __() in /home3/newcruit/public_html/wp-content/plugins/motopress-slider/settings/layer.php on line 4
+[13-Jan-2016 14:39:47] PHP Fatal error:  Call to undefined function  __() in /home3/newcruit/public_html/wp-content/plugins/motopress-slider/settings/slide.php on line 4
+[13-Jan-2016 14:39:57] PHP Fatal error:  Call to undefined function  __() in /home3/newcruit/public_html/wp-content/plugins/motopress-slider/settings/layer.php on line 4
+[27-Jan-2016 23:23:46] PHP Fatal error:  Call to undefined function  is_admin() in /home3/newcruit/public_html/wp-content/plugins/motopress-slider/settings/preset.php on line 6
+[06-Jul-2016 17:27:34 UTC] PHP Fatal error:  Call to undefined function __() in /home/sixtyeightgroup/public_html/wp-content/plugins/motopress-slider/settings/slide.php on line 4
+[06-Jul-2016 19:59:13 UTC] PHP Fatal error:  Call to undefined function __() in /home/sixtyeightgroup/public_html/wp-content/plugins/motopress-slider/settings/layer.php on line 4
+[08-Jul-2016 05:46:36 UTC] PHP Fatal error:  Call to undefined function __() in /home/sixtyeightgroup/public_html/wp-content/plugins/motopress-slider/settings/slider.php on line 4
+[08-Jul-2016 08:18:10 UTC] PHP Fatal error:  Call to undefined function is_admin() in /home/sixtyeightgroup/public_html/wp-content/plugins/motopress-slider/settings/preset.php on line 6
+[09-Jul-2016 07:51:35 UTC] PHP Warning:  require_once(ABSPATHwp-admin/includes/plugin.php): failed to open stream: No such file or directory in /home/sixtyeightgroup/public_html/wp-content/plugins/motopress-slider/settings/settings.php on line 2
+[09-Jul-2016 07:51:35 UTC] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHwp-admin/includes/plugin.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/sixtyeightgroup/public_html/wp-content/plugins/motopress-slider/settings/settings.php on line 2
+[22-Sep-2016 02:08:20 UTC] PHP Fatal error:  Call to undefined function __() in /home/zoom/public_html/wp-content/plugins/motopress-slider/settings/slide.php on line 4
+[22-Sep-2016 02:08:26 UTC] PHP Fatal error:  Call to undefined function __() in /home/zoom/public_html/wp-content/plugins/motopress-slider/settings/layer.php on line 4
+[22-Sep-2016 02:08:37 UTC] PHP Fatal error:  Call to undefined function __() in /home/zoom/public_html/wp-content/plugins/motopress-slider/settings/slider.php on line 4
+[22-Sep-2016 02:08:42 UTC] PHP Fatal error:  Call to undefined function is_admin() in /home/zoom/public_html/wp-content/plugins/motopress-slider/settings/preset.php on line 6
+[22-Sep-2016 02:09:05 UTC] PHP Warning:  require_once(ABSPATHwp-admin/includes/plugin.php): failed to open stream: No such file or directory in /home/zoom/public_html/wp-content/plugins/motopress-slider/settings/settings.php on line 2
+[22-Sep-2016 02:09:05 UTC] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHwp-admin/includes/plugin.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/zoom/public_html/wp-content/plugins/motopress-slider/settings/settings.php on line 2
+[20-Oct-2016 13:56:09 UTC] PHP Fatal error:  Call to undefined function __() in /home/zoom/public_html/wp-content/plugins/motopress-slider/settings/slide.php on line 4
+[08-Nov-2016 13:39:49 UTC] PHP Fatal error:  Call to undefined function __() in /home/zoom/public_html/wp-content/plugins/motopress-slider/settings/layer.php on line 4
+[09-Nov-2016 17:20:46 UTC] PHP Fatal error:  Call to undefined function __() in /home/zoom/public_html/wp-content/plugins/motopress-slider/settings/slider.php on line 4
+[18-Nov-2016 11:48:47 UTC] PHP Warning:  require_once(ABSPATHwp-admin/includes/plugin.php): failed to open stream: No such file or directory in /home/zoom/public_html/wp-content/plugins/motopress-slider/settings/settings.php on line 2
+[18-Nov-2016 11:48:47 UTC] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHwp-admin/includes/plugin.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/zoom/public_html/wp-content/plugins/motopress-slider/settings/settings.php on line 2
+[18-Nov-2016 18:56:12 UTC] PHP Fatal error:  Call to undefined function is_admin() in /home/zoom/public_html/wp-content/plugins/motopress-slider/settings/preset.php on line 6
+[04-May-2017 11:25:05 UTC] PHP Fatal error:  Call to undefined function __() in /home/zoom/public_html/wp-content/plugins/motopress-slider/settings/slide.php on line 4
+[04-May-2017 11:25:10 UTC] PHP Fatal error:  Call to undefined function __() in /home/zoom/public_html/wp-content/plugins/motopress-slider/settings/layer.php on line 4
+[04-May-2017 11:25:19 UTC] PHP Fatal error:  Call to undefined function __() in /home/zoom/public_html/wp-content/plugins/motopress-slider/settings/slider.php on line 4
+[04-May-2017 11:25:23 UTC] PHP Fatal error:  Call to undefined function is_admin() in /home/zoom/public_html/wp-content/plugins/motopress-slider/settings/preset.php on line 6
+[04-May-2017 11:25:41 UTC] PHP Warning:  require_once(ABSPATHwp-admin/includes/plugin.php): failed to open stream: No such file or directory in /home/zoom/public_html/wp-content/plugins/motopress-slider/settings/settings.php on line 2
+[04-May-2017 11:25:41 UTC] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHwp-admin/includes/plugin.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/zoom/public_html/wp-content/plugins/motopress-slider/settings/settings.php on line 2

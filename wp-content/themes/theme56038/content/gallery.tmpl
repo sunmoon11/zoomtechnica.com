@@ -1,0 +1,19 @@
+<div class="blog_page_wrapper_all">
+%%GALLERY where="loop"%%
+
+<div class="caption">
+    <div>
+        <div class="entry-meta entry-meta-top">
+        	%%DATE format="dS M"%%
+    	    %%AUTHOR before="<?php _e( 'by ', 'cherry' ); ?>"%%
+        	%%COMMENTS%%
+        	%%TAXONOMY before="<?php _e( 'in ', 'cherry' ); ?>" name="category"%%
+        	%%TAXONOMY name="post_tag"%%
+        </div>
+        %%TITLE   where="loop"%%
+        %%CONTENT where="single"%%
+        %%BUTTON%%
+    </div>
+<div class="auxiliary"></div>
+</div>
+</div>

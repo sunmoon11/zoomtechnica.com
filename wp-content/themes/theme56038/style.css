@@ -1,0 +1,20 @@
+/*
+Theme Name:     theme56038
+Theme URI:      http://yoursite.com/link/to/theme
+Description:    Your theme description.
+Author:         Your Name
+Author URI:     http://yoursite.com
+Version:     	4.0.5.1
+License:        GNU General Public License v2 or later
+License URI:    http://www.gnu.org/licenses/gpl-2.0.html
+Tags:           fixed-layout, fluid-layout, responsive-layout, left-sidebar, right-sidebar, custom-menu, featured-images, full-width-template, post-formats, sticky-post, theme-options, translation-ready
+Text Domain:    child-theme-domain
+Template:       cherryframework4
+Cherry Version: 4.0.5.1
+*/
+
+/* =Theme customization starts here
+-------------------------------------------------------------- */
+.home .col-xs-12.col-sm-12.col-md-6.col-lg-3.col-xs-offset-0.col-sm-offset-0.col-md-offset-0.col-lg-offset-0.col-xs-pull-0.col-sm-pull-0.col-md-pull-0.col-lg-pull-0.col-xs-push-0.col-sm-push-0.col-md-push-0.col-lg-push-0 {
+    margin: 4%;
+}

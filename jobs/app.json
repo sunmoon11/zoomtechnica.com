@@ -1,0 +1,32 @@
+{
+    "acceptedResumeTypes": [
+        "html",
+        "text",
+        "txt",
+        "pdf",
+        "doc",
+        "docx",
+        "rtf",
+        "odt"
+    ],
+    "companyName": "[ NewCruit ]",
+    "defaultLocale": "en-US",
+    "supportedLocales": [
+        "en-US",
+        "fr-FR"
+    ],
+    "minUploadSize": 30720,
+    "maxRelatedJobs": 5,
+    "maxUploadSize": 5242880,
+    "service": {
+        "batchSize": 500,
+        "corpToken": "[ 1SOIC1 ]",
+        "port": null,
+        "swimlane": "[ 32 ]"
+    },
+    "integrations": {
+        "linkedin": {
+            "clientId": "[ CLIENTID HERE ]"
+        }
+    }
+}

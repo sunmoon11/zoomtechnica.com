@@ -1,0 +1,250 @@
+/*
+Description: The stylesheet with a main responsive style.
+Author:      Cherry Team
+Version:     1.0.0
+*/
+@import "css-framework/responsive/base";
+
+
+
+@media (max-width: $screen-lg-min) {
+	
+}
+@media (max-width: $screen-md-min) {
+	.page-link {
+        display:block;
+        float:none;
+    }
+    .portfolio-pagination ul.page-link {
+        display: block;
+        float: none;
+        min-height: 50px;
+        clear:both;
+    }
+}
+@media (max-width: $screen-sm-min) {
+	.portfolio-wrap .portfolio-container {
+		.portfolio-list {
+			/* List layout */
+			.portfolio-item.list-layout-item {	
+				.inner-wrap {
+					.media-content, .item-content {
+						width:auto;
+						margin:0;
+						
+					}
+				}
+			}
+		}
+	}
+    
+}
+@media (max-width: 380px) {
+	
+}
+
+
+
+/* Megamenu responsive
+================================================== */
+
+@media (max-width: $screen-md-min) {
+	#menu-primary #menu-primary-items {
+		.cherry-mega-menu-sub.mega-sub {
+			padding:30px;
+			
+			>li {
+				padding:40px 0 0;
+				margin:40px 0 0;
+				float:none;
+				width:auto;
+				border-top:1px solid #000;
+				
+				&:before {
+					display:none;
+				}
+			}
+			>li:first-child {
+				margin-top:0;
+				padding-top:0;
+				border:none;
+			}
+			
+			/* Post template "megamenu-posts" */
+			.megamenu-post-wrap {
+				margin-bottom: 30px;
+				
+				.post-thumbnail {
+					float:left;
+					padding:0 30px 15px 0;
+				}
+			}
+		}
+	}
+}
+@media (max-width: 620px) {
+	#menu-primary #menu-primary-items {
+		.cherry-mega-menu-sub.mega-sub {
+			
+			/* Post template "megamenu-posts" */
+			.megamenu-post-wrap {
+				.post-thumbnail {
+					float:none;
+					padding:0 0 15px 0;
+				}
+			}
+		}
+	}
+}
+
+/*----------------------------------------------------------------------------------*/
+@media (max-width:1200px) {
+    .additional_wrapper .cherry-services_item {
+        width:50%;
+    }
+}
+@media (max-width: $screen-lg-min) {
+    #menu-primary > #menu-primary-items > .menu-item {
+        margin-right: 30px;
+    }
+    #menu-primary {
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+    .motoslider_wrapper .mpsl-animated strong {
+        padding:0 20px;
+    }
+    .services_wrapper .motopress-service-box-obj.motopress-service-box-centered:before {
+            left: 50%;
+    margin-left: -135px;
+    }
+    .parallax-box .parallax-content .cherry-counter {
+            width: 214px;
+            height: 214px;
+            padding-top: 60px;
+    }
+    .parallax-box .parallax-content .cherry-counter span.count {
+        font-size:50px;
+    }
+    .additional_wrapper .caption {
+        min-height: 457px;
+        width:457px;
+        padding-top:147px;
+    }
+    .site-title.text-logo .site-link {
+        font-size:25px;
+        line-height:43px;
+    }
+    body.single-portfolio {
+        article.type-portfolio .cherry-portfolio-single-post figure.post-featured-image {
+            margin:0;
+            float: none;
+        }
+        .post-content {
+            overflow: hidden;
+        }
+    }
+    .features_services .services-listing .cherry-services_title, .features_services .services-listing > div:first-child .cherry-services_title {
+        padding:0;
+    }
+}
+
+@media (max-width: $screen-md-min) {
+    #menu-primary > #menu-primary-items > .menu-item {
+        margin-right: 15px;
+    }
+    .motoslider_wrapper .mpsl-animated strong {
+        font-size:30px;
+        line-height:1em;
+    }
+    
+    .parallax-box .parallax-content .cherry-counter {
+        width: 214px;
+            height: 214px;
+            padding-top: 60px;
+    }
+    .parallax-box .parallax-content .cherry-counter span.count {
+        font-size:60px;
+    }
+    .parallax_wrapper .parallax-box {
+        text-align:center;
+    }
+    .parallax_wrapper p {
+        font-size:40px;
+        line-height:1em;
+    }
+    .parallax_wrapper .parallax-content {
+        padding: 100px 0;
+        text-align:center;
+    }
+    .parallax_wrapper1 .parallax-content {
+        padding-bottom:30px;
+    }
+    .additional_wrapper .caption {
+        min-height: 342px;
+        width:342px;
+        padding-top:100px;
+    }
+    .cherry-breadcrumbs {
+        margin-top: 0;
+        background:#323232 !important;
+        text-align:center;
+    }
+    .cherry-breadcrumbs .container {
+        
+        padding-top:15px;
+        padding-bottom:15px;
+    }
+    .cherry-breadcrumbs .cherry-breadcrumbs_content {
+        text-align:center;
+    }
+    .related-posts_list .entry-title {
+        font-size:16px;
+        line-height:1em;
+    }
+    .site-title.text-logo .site-link {
+        font-size:19px;
+        line-height:43px;
+    }
+    .portfolio-wrap .portfolio-filter .filter li {
+        margin-left:5px;
+        margin-right:5px;
+    }
+    .error-404-num {
+        font-size: 10em; 
+    }
+    .site-branding {
+        text-align:center;
+        padding: 12px 22px;
+    }
+}
+@media (max-width: $screen-sm-min) {
+    .static-header-logo:before {
+        display:none;
+    }  
+    #menu-primary {
+        padding: 20px;
+    }
+    #static-area-header-top {
+    	padding-top:0;
+    }
+    .parallax-box .parallax-content .cherry-counter {
+        width: 290px;
+        height: 290px;
+        padding-top: 100px;
+    }
+    .parallax-box .parallax-content .cherry-counter span.count {
+        font-size:50px;
+    }
+    .additional_wrapper .caption {
+        min-height: 290px;
+        width:290px;
+        padding-top:70px;
+    }
+    .portfolio-pagination .page-nav {
+        float: left;
+    }
+    .portfolio-pagination .page-nav {
+        margin: 26px 0 0;
+    }
+}

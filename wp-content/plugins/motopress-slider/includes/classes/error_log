@@ -1,0 +1,8 @@
+[11-Jan-2016 23:41:40] PHP Fatal error:  Class 'WP_Widget' not found in /home3/newcruit/public_html/wp-content/plugins/motopress-slider/includes/classes/SliderWidget.php on line 3
+[12-Jan-2016 07:02:13] PHP Fatal error:  Class 'WP_Widget' not found in /home3/newcruit/public_html/wp-content/plugins/motopress-slider/includes/classes/SliderWidget.php on line 3
+[12-Jan-2016 12:44:43] PHP Fatal error:  Class 'WP_Widget' not found in /home3/newcruit/public_html/wp-content/plugins/motopress-slider/includes/classes/SliderWidget.php on line 3
+[12-Jan-2016 18:42:15] PHP Fatal error:  Class 'WP_Widget' not found in /home3/newcruit/public_html/wp-content/plugins/motopress-slider/includes/classes/SliderWidget.php on line 3
+[15-Aug-2016 21:53:10 UTC] PHP Fatal error:  Class 'WP_Widget' not found in /home/sixtyeightgroup/public_html/wp-content/plugins/motopress-slider/includes/classes/SliderWidget.php on line 4
+[22-Sep-2016 10:43:51 UTC] PHP Fatal error:  Class 'WP_Widget' not found in /home/zoom/public_html/wp-content/plugins/motopress-slider/includes/classes/SliderWidget.php on line 4
+[28-Nov-2016 13:48:55 UTC] PHP Fatal error:  Class 'WP_Widget' not found in /home/zoom/public_html/wp-content/plugins/motopress-slider/includes/classes/SliderWidget.php on line 4
+[04-May-2017 11:29:39 UTC] PHP Fatal error:  Class 'WP_Widget' not found in /home/zoom/public_html/wp-content/plugins/motopress-slider/includes/classes/SliderWidget.php on line 4

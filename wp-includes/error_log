@@ -1,0 +1,154 @@
+[02-May-2016 22:05:17 UTC] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home/sixtyeightgroup/public_html/wp-includes/functions.php on line 8
+[02-May-2016 22:05:17 UTC] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home/sixtyeightgroup/public_html/wp-includes/functions.php on line 8
+[02-May-2016 22:05:17 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/option.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/sixtyeightgroup/public_html/wp-includes/functions.php on line 8
+[02-May-2016 22:05:20 UTC] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home/sixtyeightgroup/public_html/wp-includes/functions.php on line 8
+[02-May-2016 22:05:20 UTC] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home/sixtyeightgroup/public_html/wp-includes/functions.php on line 8
+[02-May-2016 22:05:20 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/option.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/sixtyeightgroup/public_html/wp-includes/functions.php on line 8
+[11-Jun-2016 12:01:18 UTC] PHP Warning:  require(ABSPATHWPINC/class.wp-dependencies.php): failed to open stream: No such file or directory in /home/sixtyeightgroup/public_html/wp-includes/script-loader.php on line 25
+[11-Jun-2016 12:01:18 UTC] PHP Warning:  require(ABSPATHWPINC/class.wp-dependencies.php): failed to open stream: No such file or directory in /home/sixtyeightgroup/public_html/wp-includes/script-loader.php on line 25
+[11-Jun-2016 12:01:18 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class.wp-dependencies.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/sixtyeightgroup/public_html/wp-includes/script-loader.php on line 25
+[11-Jun-2016 12:01:21 UTC] PHP Fatal error:  Class 'Walker' not found in /home/sixtyeightgroup/public_html/wp-includes/nav-menu-template.php on line 16
+[11-Jun-2016 12:01:55 UTC] PHP Fatal error:  Class 'Walker' not found in /home/sixtyeightgroup/public_html/wp-includes/class-walker-page-dropdown.php on line 17
+[11-Jun-2016 12:01:56 UTC] PHP Fatal error:  Class 'Walker' not found in /home/sixtyeightgroup/public_html/wp-includes/class-walker-page.php on line 17
+[11-Jun-2016 12:02:58 UTC] PHP Warning:  require_once(ABSPATHWPINC/widgets/class-wp-widget-pages.php): failed to open stream: No such file or directory in /home/sixtyeightgroup/public_html/wp-includes/default-widgets.php on line 11
+[11-Jun-2016 12:02:58 UTC] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHWPINC/widgets/class-wp-widget-pages.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/sixtyeightgroup/public_html/wp-includes/default-widgets.php on line 11
+[11-Jun-2016 12:02:59 UTC] PHP Fatal error:  Call to undefined function add_filter() in /home/sixtyeightgroup/public_html/wp-includes/default-filters.php on line 17
+[11-Jun-2016 12:03:03 UTC] PHP Warning:  require_once(ABSPATHWPINC/customize/class-wp-customize-nav-menus-panel.php): failed to open stream: No such file or directory in /home/sixtyeightgroup/public_html/wp-includes/class-wp-customize-panel.php on line 388
+[11-Jun-2016 12:03:03 UTC] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHWPINC/customize/class-wp-customize-nav-menus-panel.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/sixtyeightgroup/public_html/wp-includes/class-wp-customize-panel.php on line 388
+[11-Jun-2016 12:04:17 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/sixtyeightgroup/public_html/wp-includes/formatting.php on line 4820
+[11-Jun-2016 12:04:20 UTC] PHP Warning:  require(ABSPATHWPINC/random_compat/random.php): failed to open stream: No such file or directory in /home/sixtyeightgroup/public_html/wp-includes/compat.php on line 338
+[11-Jun-2016 12:04:20 UTC] PHP Warning:  require(ABSPATHWPINC/random_compat/random.php): failed to open stream: No such file or directory in /home/sixtyeightgroup/public_html/wp-includes/compat.php on line 338
+[11-Jun-2016 12:04:20 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/random_compat/random.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/sixtyeightgroup/public_html/wp-includes/compat.php on line 338
+[11-Jun-2016 12:04:29 UTC] PHP Fatal error:  Call to undefined function is_admin() in /home/sixtyeightgroup/public_html/wp-includes/vars.php on line 23
+[11-Jun-2016 12:04:38 UTC] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home/sixtyeightgroup/public_html/wp-includes/functions.php on line 8
+[11-Jun-2016 12:04:38 UTC] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home/sixtyeightgroup/public_html/wp-includes/functions.php on line 8
+[11-Jun-2016 12:04:38 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/option.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/sixtyeightgroup/public_html/wp-includes/functions.php on line 8
+[11-Jun-2016 12:05:53 UTC] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/sixtyeightgroup/public_html/wp-includes/rss.php on line 19
+[11-Jun-2016 12:05:58 UTC] PHP Fatal error:  Class 'Walker' not found in /home/sixtyeightgroup/public_html/wp-includes/class-walker-category-dropdown.php on line 17
+[11-Jun-2016 12:05:59 UTC] PHP Fatal error:  Class 'Walker' not found in /home/sixtyeightgroup/public_html/wp-includes/class-walker-category.php on line 17
+[11-Jun-2016 12:06:11 UTC] PHP Fatal error:  Class 'Walker' not found in /home/sixtyeightgroup/public_html/wp-includes/class-walker-comment.php on line 16
+[09-Jul-2016 19:08:27 UTC] PHP Fatal error:  Class 'Walker' not found in /home/sixtyeightgroup/public_html/wp-includes/nav-menu-template.php on line 16
+[09-Jul-2016 19:09:04 UTC] PHP Fatal error:  Class 'Walker' not found in /home/sixtyeightgroup/public_html/wp-includes/class-walker-page-dropdown.php on line 17
+[09-Jul-2016 19:09:06 UTC] PHP Fatal error:  Class 'Walker' not found in /home/sixtyeightgroup/public_html/wp-includes/class-walker-page.php on line 17
+[09-Jul-2016 19:09:30 UTC] PHP Warning:  require_once(ABSPATHWPINC/customize/class-wp-customize-nav-menus-panel.php): failed to open stream: No such file or directory in /home/sixtyeightgroup/public_html/wp-includes/class-wp-customize-panel.php on line 388
+[09-Jul-2016 19:09:30 UTC] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHWPINC/customize/class-wp-customize-nav-menus-panel.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/sixtyeightgroup/public_html/wp-includes/class-wp-customize-panel.php on line 388
+[09-Jul-2016 19:10:12 UTC] PHP Warning:  require_once(ABSPATHWPINC/widgets/class-wp-widget-pages.php): failed to open stream: No such file or directory in /home/sixtyeightgroup/public_html/wp-includes/default-widgets.php on line 11
+[09-Jul-2016 19:10:12 UTC] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHWPINC/widgets/class-wp-widget-pages.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/sixtyeightgroup/public_html/wp-includes/default-widgets.php on line 11
+[09-Jul-2016 19:10:13 UTC] PHP Fatal error:  Call to undefined function add_filter() in /home/sixtyeightgroup/public_html/wp-includes/default-filters.php on line 17
+[09-Jul-2016 19:11:19 UTC] PHP Warning:  require(ABSPATHWPINC/class.wp-dependencies.php): failed to open stream: No such file or directory in /home/sixtyeightgroup/public_html/wp-includes/script-loader.php on line 25
+[09-Jul-2016 19:11:19 UTC] PHP Warning:  require(ABSPATHWPINC/class.wp-dependencies.php): failed to open stream: No such file or directory in /home/sixtyeightgroup/public_html/wp-includes/script-loader.php on line 25
+[09-Jul-2016 19:11:19 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class.wp-dependencies.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/sixtyeightgroup/public_html/wp-includes/script-loader.php on line 25
+[09-Jul-2016 19:11:22 UTC] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/sixtyeightgroup/public_html/wp-includes/rss.php on line 19
+[09-Jul-2016 19:11:31 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/sixtyeightgroup/public_html/wp-includes/formatting.php on line 4829
+[09-Jul-2016 19:11:44 UTC] PHP Warning:  require(ABSPATHWPINC/random_compat/random.php): failed to open stream: No such file or directory in /home/sixtyeightgroup/public_html/wp-includes/compat.php on line 338
+[09-Jul-2016 19:11:44 UTC] PHP Warning:  require(ABSPATHWPINC/random_compat/random.php): failed to open stream: No such file or directory in /home/sixtyeightgroup/public_html/wp-includes/compat.php on line 338
+[09-Jul-2016 19:11:44 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/random_compat/random.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/sixtyeightgroup/public_html/wp-includes/compat.php on line 338
+[09-Jul-2016 19:11:48 UTC] PHP Fatal error:  Call to undefined function is_admin() in /home/sixtyeightgroup/public_html/wp-includes/vars.php on line 23
+[09-Jul-2016 19:11:56 UTC] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home/sixtyeightgroup/public_html/wp-includes/functions.php on line 8
+[09-Jul-2016 19:11:56 UTC] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home/sixtyeightgroup/public_html/wp-includes/functions.php on line 8
+[09-Jul-2016 19:11:56 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/option.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/sixtyeightgroup/public_html/wp-includes/functions.php on line 8
+[09-Jul-2016 19:12:54 UTC] PHP Fatal error:  Class 'Walker' not found in /home/sixtyeightgroup/public_html/wp-includes/class-walker-category-dropdown.php on line 17
+[09-Jul-2016 19:12:55 UTC] PHP Fatal error:  Class 'Walker' not found in /home/sixtyeightgroup/public_html/wp-includes/class-walker-category.php on line 17
+[09-Jul-2016 19:12:58 UTC] PHP Fatal error:  Class 'Walker' not found in /home/sixtyeightgroup/public_html/wp-includes/class-walker-comment.php on line 16
+[26-Jul-2016 22:02:17 UTC] PHP Fatal error:  Class 'Walker' not found in /home/sixtyeightgroup/public_html/wp-includes/nav-menu-template.php on line 16
+[26-Jul-2016 22:03:26 UTC] PHP Warning:  require_once(ABSPATHWPINC/customize/class-wp-customize-nav-menus-panel.php): failed to open stream: No such file or directory in /home/sixtyeightgroup/public_html/wp-includes/class-wp-customize-panel.php on line 388
+[26-Jul-2016 22:03:26 UTC] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHWPINC/customize/class-wp-customize-nav-menus-panel.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/sixtyeightgroup/public_html/wp-includes/class-wp-customize-panel.php on line 388
+[26-Jul-2016 22:03:29 UTC] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/sixtyeightgroup/public_html/wp-includes/rss.php on line 19
+[26-Jul-2016 22:06:09 UTC] PHP Warning:  require(ABSPATHWPINC/class.wp-dependencies.php): failed to open stream: No such file or directory in /home/sixtyeightgroup/public_html/wp-includes/script-loader.php on line 25
+[26-Jul-2016 22:06:09 UTC] PHP Warning:  require(ABSPATHWPINC/class.wp-dependencies.php): failed to open stream: No such file or directory in /home/sixtyeightgroup/public_html/wp-includes/script-loader.php on line 25
+[26-Jul-2016 22:06:09 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class.wp-dependencies.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/sixtyeightgroup/public_html/wp-includes/script-loader.php on line 25
+[26-Jul-2016 22:08:16 UTC] PHP Fatal error:  Class 'Walker' not found in /home/sixtyeightgroup/public_html/wp-includes/class-walker-page-dropdown.php on line 17
+[26-Jul-2016 22:08:17 UTC] PHP Fatal error:  Class 'Walker' not found in /home/sixtyeightgroup/public_html/wp-includes/class-walker-page.php on line 17
+[26-Jul-2016 22:20:37 UTC] PHP Warning:  require_once(ABSPATHWPINC/widgets/class-wp-widget-pages.php): failed to open stream: No such file or directory in /home/sixtyeightgroup/public_html/wp-includes/default-widgets.php on line 11
+[26-Jul-2016 22:20:37 UTC] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHWPINC/widgets/class-wp-widget-pages.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/sixtyeightgroup/public_html/wp-includes/default-widgets.php on line 11
+[26-Jul-2016 22:20:56 UTC] PHP Fatal error:  Call to undefined function add_filter() in /home/sixtyeightgroup/public_html/wp-includes/default-filters.php on line 17
+[26-Jul-2016 22:34:38 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/sixtyeightgroup/public_html/wp-includes/formatting.php on line 4829
+[26-Jul-2016 22:35:22 UTC] PHP Warning:  require(ABSPATHWPINC/random_compat/random.php): failed to open stream: No such file or directory in /home/sixtyeightgroup/public_html/wp-includes/compat.php on line 338
+[26-Jul-2016 22:35:22 UTC] PHP Warning:  require(ABSPATHWPINC/random_compat/random.php): failed to open stream: No such file or directory in /home/sixtyeightgroup/public_html/wp-includes/compat.php on line 338
+[26-Jul-2016 22:35:22 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/random_compat/random.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/sixtyeightgroup/public_html/wp-includes/compat.php on line 338
+[26-Jul-2016 22:36:07 UTC] PHP Fatal error:  Call to undefined function is_admin() in /home/sixtyeightgroup/public_html/wp-includes/vars.php on line 23
+[26-Jul-2016 22:41:03 UTC] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home/sixtyeightgroup/public_html/wp-includes/functions.php on line 8
+[26-Jul-2016 22:41:03 UTC] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home/sixtyeightgroup/public_html/wp-includes/functions.php on line 8
+[26-Jul-2016 22:41:03 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/option.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/sixtyeightgroup/public_html/wp-includes/functions.php on line 8
+[26-Jul-2016 22:53:41 UTC] PHP Fatal error:  Class 'Walker' not found in /home/sixtyeightgroup/public_html/wp-includes/class-walker-category-dropdown.php on line 17
+[26-Jul-2016 22:54:34 UTC] PHP Fatal error:  Class 'Walker' not found in /home/sixtyeightgroup/public_html/wp-includes/class-walker-category.php on line 17
+[26-Jul-2016 22:57:22 UTC] PHP Fatal error:  Class 'Walker' not found in /home/sixtyeightgroup/public_html/wp-includes/class-walker-comment.php on line 16
+[12-Oct-2016 10:31:55 UTC] PHP Fatal error:  Class 'Walker' not found in /home/zoom/public_html/wp-includes/nav-menu-template.php on line 16
+[12-Oct-2016 10:32:22 UTC] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/zoom/public_html/wp-includes/rss.php on line 19
+[12-Oct-2016 10:32:35 UTC] PHP Fatal error:  Class 'Walker' not found in /home/zoom/public_html/wp-includes/class-walker-page.php on line 17
+[12-Oct-2016 10:32:36 UTC] PHP Fatal error:  Class 'Walker' not found in /home/zoom/public_html/wp-includes/class-walker-page-dropdown.php on line 17
+[12-Oct-2016 10:33:36 UTC] PHP Warning:  require_once(ABSPATHWPINC/widgets/class-wp-widget-pages.php): failed to open stream: No such file or directory in /home/zoom/public_html/wp-includes/default-widgets.php on line 11
+[12-Oct-2016 10:33:36 UTC] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHWPINC/widgets/class-wp-widget-pages.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/zoom/public_html/wp-includes/default-widgets.php on line 11
+[12-Oct-2016 10:33:41 UTC] PHP Fatal error:  Class 'Walker' not found in /home/zoom/public_html/wp-includes/class-walker-comment.php on line 16
+[12-Oct-2016 10:33:46 UTC] PHP Warning:  require(ABSPATHWPINC/class.wp-dependencies.php): failed to open stream: No such file or directory in /home/zoom/public_html/wp-includes/script-loader.php on line 25
+[12-Oct-2016 10:33:46 UTC] PHP Warning:  require(ABSPATHWPINC/class.wp-dependencies.php): failed to open stream: No such file or directory in /home/zoom/public_html/wp-includes/script-loader.php on line 25
+[12-Oct-2016 10:33:46 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class.wp-dependencies.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/zoom/public_html/wp-includes/script-loader.php on line 25
+[12-Oct-2016 10:34:22 UTC] PHP Fatal error:  Call to undefined function add_filter() in /home/zoom/public_html/wp-includes/default-filters.php on line 17
+[12-Oct-2016 10:35:52 UTC] PHP Fatal error:  Call to undefined function is_admin() in /home/zoom/public_html/wp-includes/vars.php on line 23
+[12-Oct-2016 10:36:11 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/zoom/public_html/wp-includes/formatting.php on line 4829
+[12-Oct-2016 10:36:13 UTC] PHP Warning:  require(ABSPATHWPINC/random_compat/random.php): failed to open stream: No such file or directory in /home/zoom/public_html/wp-includes/compat.php on line 338
+[12-Oct-2016 10:36:13 UTC] PHP Warning:  require(ABSPATHWPINC/random_compat/random.php): failed to open stream: No such file or directory in /home/zoom/public_html/wp-includes/compat.php on line 338
+[12-Oct-2016 10:36:13 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/random_compat/random.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/zoom/public_html/wp-includes/compat.php on line 338
+[12-Oct-2016 10:36:25 UTC] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home/zoom/public_html/wp-includes/functions.php on line 8
+[12-Oct-2016 10:36:25 UTC] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home/zoom/public_html/wp-includes/functions.php on line 8
+[12-Oct-2016 10:36:25 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/option.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/zoom/public_html/wp-includes/functions.php on line 8
+[12-Oct-2016 10:37:16 UTC] PHP Fatal error:  Class 'Walker' not found in /home/zoom/public_html/wp-includes/class-walker-category-dropdown.php on line 17
+[12-Oct-2016 10:37:17 UTC] PHP Fatal error:  Class 'Walker' not found in /home/zoom/public_html/wp-includes/class-walker-category.php on line 17
+[12-Oct-2016 10:37:20 UTC] PHP Warning:  require_once(ABSPATHWPINC/customize/class-wp-customize-nav-menus-panel.php): failed to open stream: No such file or directory in /home/zoom/public_html/wp-includes/class-wp-customize-panel.php on line 388
+[12-Oct-2016 10:37:20 UTC] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHWPINC/customize/class-wp-customize-nav-menus-panel.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/zoom/public_html/wp-includes/class-wp-customize-panel.php on line 388
+[29-Nov-2016 03:04:18 UTC] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/zoom/public_html/wp-includes/registration.php on line 7
+[29-Nov-2016 03:37:32 UTC] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/zoom/public_html/wp-includes/registration.php on line 7
+[29-Nov-2016 05:06:30 UTC] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/zoom/public_html/wp-includes/registration.php on line 7
+[29-Nov-2016 17:12:30 UTC] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/zoom/public_html/wp-includes/registration.php on line 7
+[29-Nov-2016 17:55:10 UTC] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/zoom/public_html/wp-includes/registration.php on line 7
+[27-Dec-2016 21:43:32 UTC] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/zoom/public_html/wp-includes/registration-functions.php on line 7
+[29-Dec-2016 06:02:54 UTC] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/zoom/public_html/wp-includes/registration-functions.php on line 7
+[19-Jan-2017 12:53:40 UTC] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/zoom/public_html/wp-includes/rss-functions.php on line 8
+[19-Jan-2017 12:53:40 UTC] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/zoom/public_html/wp-includes/rss-functions.php on line 8
+[19-Jan-2017 12:53:41 UTC] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/zoom/public_html/wp-includes/rss-functions.php on line 8
+[16-Feb-2017 05:47:02 UTC] PHP Fatal error:  Class 'Walker' not found in /home/zoom/public_html/wp-includes/nav-menu-template.php on line 16
+[16-Feb-2017 05:47:39 UTC] PHP Warning:  require(ABSPATHWPINC/class.wp-dependencies.php): failed to open stream: No such file or directory in /home/zoom/public_html/wp-includes/script-loader.php on line 25
+[16-Feb-2017 05:47:39 UTC] PHP Warning:  require(ABSPATHWPINC/class.wp-dependencies.php): failed to open stream: No such file or directory in /home/zoom/public_html/wp-includes/script-loader.php on line 25
+[16-Feb-2017 05:47:39 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class.wp-dependencies.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/zoom/public_html/wp-includes/script-loader.php on line 25
+[16-Feb-2017 05:47:40 UTC] PHP Fatal error:  Class 'Walker' not found in /home/zoom/public_html/wp-includes/class-walker-page.php on line 17
+[16-Feb-2017 05:47:41 UTC] PHP Warning:  require_once(ABSPATHWPINC/widgets/class-wp-widget-pages.php): failed to open stream: No such file or directory in /home/zoom/public_html/wp-includes/default-widgets.php on line 11
+[16-Feb-2017 05:47:41 UTC] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHWPINC/widgets/class-wp-widget-pages.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/zoom/public_html/wp-includes/default-widgets.php on line 11
+[16-Feb-2017 05:47:42 UTC] PHP Fatal error:  Class 'Walker' not found in /home/zoom/public_html/wp-includes/class-walker-page-dropdown.php on line 17
+[16-Feb-2017 05:48:12 UTC] PHP Warning:  require_once(ABSPATHWPINC/customize/class-wp-customize-nav-menus-panel.php): failed to open stream: No such file or directory in /home/zoom/public_html/wp-includes/class-wp-customize-panel.php on line 388
+[16-Feb-2017 05:48:12 UTC] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHWPINC/customize/class-wp-customize-nav-menus-panel.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/zoom/public_html/wp-includes/class-wp-customize-panel.php on line 388
+[16-Feb-2017 05:49:18 UTC] PHP Fatal error:  Call to undefined function add_filter() in /home/zoom/public_html/wp-includes/default-filters.php on line 17
+[16-Feb-2017 05:50:22 UTC] PHP Fatal error:  Call to undefined function is_admin() in /home/zoom/public_html/wp-includes/vars.php on line 23
+[16-Feb-2017 05:50:36 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/zoom/public_html/wp-includes/formatting.php on line 4829
+[16-Feb-2017 05:50:41 UTC] PHP Warning:  require(ABSPATHWPINC/random_compat/random.php): failed to open stream: No such file or directory in /home/zoom/public_html/wp-includes/compat.php on line 338
+[16-Feb-2017 05:50:41 UTC] PHP Warning:  require(ABSPATHWPINC/random_compat/random.php): failed to open stream: No such file or directory in /home/zoom/public_html/wp-includes/compat.php on line 338
+[16-Feb-2017 05:50:41 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/random_compat/random.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/zoom/public_html/wp-includes/compat.php on line 338
+[16-Feb-2017 05:51:13 UTC] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home/zoom/public_html/wp-includes/functions.php on line 8
+[16-Feb-2017 05:51:13 UTC] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home/zoom/public_html/wp-includes/functions.php on line 8
+[16-Feb-2017 05:51:13 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/option.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/zoom/public_html/wp-includes/functions.php on line 8
+[16-Feb-2017 05:52:04 UTC] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/zoom/public_html/wp-includes/rss.php on line 19
+[16-Feb-2017 05:52:08 UTC] PHP Fatal error:  Class 'Walker' not found in /home/zoom/public_html/wp-includes/class-walker-category-dropdown.php on line 17
+[16-Feb-2017 05:52:10 UTC] PHP Fatal error:  Class 'Walker' not found in /home/zoom/public_html/wp-includes/class-walker-category.php on line 17
+[16-Feb-2017 05:52:35 UTC] PHP Fatal error:  Class 'Walker' not found in /home/zoom/public_html/wp-includes/class-walker-comment.php on line 16
+[26-Apr-2017 23:49:20 UTC] PHP Fatal error:  Class 'Walker' not found in /home/zoom/public_html/wp-includes/nav-menu-template.php on line 16
+[26-Apr-2017 23:50:00 UTC] PHP Fatal error:  Class 'Walker' not found in /home/zoom/public_html/wp-includes/class-walker-page.php on line 17
+[26-Apr-2017 23:50:01 UTC] PHP Fatal error:  Class 'Walker' not found in /home/zoom/public_html/wp-includes/class-walker-page-dropdown.php on line 17
+[26-Apr-2017 23:51:30 UTC] PHP Fatal error:  Call to undefined function add_filter() in /home/zoom/public_html/wp-includes/default-filters.php on line 17
+[26-Apr-2017 23:51:33 UTC] PHP Warning:  require_once(ABSPATHWPINC/widgets/class-wp-widget-pages.php): failed to open stream: No such file or directory in /home/zoom/public_html/wp-includes/default-widgets.php on line 11
+[26-Apr-2017 23:51:33 UTC] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHWPINC/widgets/class-wp-widget-pages.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/zoom/public_html/wp-includes/default-widgets.php on line 11
+[26-Apr-2017 23:52:36 UTC] PHP Fatal error:  Call to undefined function is_admin() in /home/zoom/public_html/wp-includes/vars.php on line 23
+[26-Apr-2017 23:52:51 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/zoom/public_html/wp-includes/formatting.php on line 4829
+[26-Apr-2017 23:52:53 UTC] PHP Warning:  require(ABSPATHWPINC/random_compat/random.php): failed to open stream: No such file or directory in /home/zoom/public_html/wp-includes/compat.php on line 338
+[26-Apr-2017 23:52:53 UTC] PHP Warning:  require(ABSPATHWPINC/random_compat/random.php): failed to open stream: No such file or directory in /home/zoom/public_html/wp-includes/compat.php on line 338
+[26-Apr-2017 23:52:53 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/random_compat/random.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/zoom/public_html/wp-includes/compat.php on line 338
+[26-Apr-2017 23:53:28 UTC] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home/zoom/public_html/wp-includes/functions.php on line 8
+[26-Apr-2017 23:53:28 UTC] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home/zoom/public_html/wp-includes/functions.php on line 8
+[26-Apr-2017 23:53:28 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/option.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/zoom/public_html/wp-includes/functions.php on line 8
+[26-Apr-2017 23:54:05 UTC] PHP Warning:  require(ABSPATHWPINC/class.wp-dependencies.php): failed to open stream: No such file or directory in /home/zoom/public_html/wp-includes/script-loader.php on line 25
+[26-Apr-2017 23:54:05 UTC] PHP Warning:  require(ABSPATHWPINC/class.wp-dependencies.php): failed to open stream: No such file or directory in /home/zoom/public_html/wp-includes/script-loader.php on line 25
+[26-Apr-2017 23:54:05 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class.wp-dependencies.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/zoom/public_html/wp-includes/script-loader.php on line 25
+[26-Apr-2017 23:54:15 UTC] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/zoom/public_html/wp-includes/rss.php on line 19
+[26-Apr-2017 23:54:16 UTC] PHP Fatal error:  Class 'Walker' not found in /home/zoom/public_html/wp-includes/class-walker-category-dropdown.php on line 17
+[26-Apr-2017 23:54:17 UTC] PHP Fatal error:  Class 'Walker' not found in /home/zoom/public_html/wp-includes/class-walker-category.php on line 17
+[26-Apr-2017 23:54:20 UTC] PHP Warning:  require_once(ABSPATHWPINC/customize/class-wp-customize-nav-menus-panel.php): failed to open stream: No such file or directory in /home/zoom/public_html/wp-includes/class-wp-customize-panel.php on line 388
+[26-Apr-2017 23:54:20 UTC] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHWPINC/customize/class-wp-customize-nav-menus-panel.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/zoom/public_html/wp-includes/class-wp-customize-panel.php on line 388
+[26-Apr-2017 23:54:41 UTC] PHP Fatal error:  Class 'Walker' not found in /home/zoom/public_html/wp-includes/class-walker-comment.php on line 16
